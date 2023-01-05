@@ -23,13 +23,13 @@ Download the following files to help you get started:
 
 Module 9 Challenge filesLinks to an external site.
 
-Instructions
+##Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
-Data Modeling
+##Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD Links to an external site..
 
-Data Engineering
+##Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
 Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -43,7 +43,7 @@ Import each CSV file into its corresponding SQL table.
 HINT
 To avoid errors, import the data in the same order as the corresponding tables got created. And, remember to account for the headers when doing the imports.
 
-Data Analysis
+##Data Analysis
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
